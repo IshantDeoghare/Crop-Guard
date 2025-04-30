@@ -1,0 +1,8 @@
+# ml-api/requirements.txt
+fastapi
+uvicorn[standard]
+python-multipart
+tensorflow
+numpy
+Pillow
+requests # If you plan to call other APIs from here, though likely not needed
