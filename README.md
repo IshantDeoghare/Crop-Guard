@@ -2,11 +2,17 @@
 
 **Crop Guard** is a modern web application designed to empower users in identifying plant diseases through image analysis. Beyond prediction, it serves as a comprehensive agricultural hub, offering localized weather updates, relevant farming news, and an intelligent AI chatbot (AgriBot) for tailored advice and disease management suggestions.
 
-[![React Badge](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Node.js Badge](https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![FastAPI Badge](https://img.shields.io/badge/ML%20API-FastAPI-05998b?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![MongoDB Badge](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Firebase Badge](https://img.shields.io/badge/Auth-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+<!-- Row 1: Frontend, Backend, ML API, Database -->
+<p align="left">
+  <a href="https://reactjs.org/" title="React"><img src="https://img.shields.io/badge/FRONTEND-REACT-29B6F6?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"></a> 
+  <a href="https://nodejs.org/" title="Node.js"><img src="https://img.shields.io/badge/BACKEND-NODE.JS-66BB6A?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"></a> 
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://img.shields.io/badge/ML_API-FASTAPI-26A69A?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge"></a> 
+  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://img.shields.io/badge/DATABASE-MONGODB-9CCC65?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"></a> 
+</p>
+<!-- Row 2: Auth -->
+<p align="left">
+   <a href="https://firebase.google.com/" title="Firebase"><img src="https://img.shields.io/badge/AUTH-FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"></a> 
+</p>
 
 ---
 
